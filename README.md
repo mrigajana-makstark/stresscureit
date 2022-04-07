@@ -1,1 +1,1 @@
-# stresscureit
+# CureIt
